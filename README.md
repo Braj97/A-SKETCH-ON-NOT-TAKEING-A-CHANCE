@@ -67,3 +67,4 @@ canvas.create_text(220, 120,
 # Run app
 Tk.mainloop
 #OUTPUTS
+https://i.supaimg.com/d50a5249-3124-4caf-be7f-e1260d469090.png
